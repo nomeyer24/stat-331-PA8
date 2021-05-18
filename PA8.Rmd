@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 8"
-author: "Lilian Trevino, Nick Gammal, Noah Meyer, Marissa Bills, Beau McAndrew"
+author: "Lilian, Nick, Noah, Marissa, Beau"
 date: "5/18/2021"
 output: html_document
 ---
